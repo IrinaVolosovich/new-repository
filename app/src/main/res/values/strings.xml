@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyFirstApplication2</string>
+    <string name="hello" translatable="false">Hello!!!</string>
+    <string name="button">button</string>
+    <string name="bye">Bye!!!</string>
+    <string name="close">Close</string>
+    <string name="new_text" translatable="false">New text</string>
+    <string name="random" translatable="false">random</string>
+    <string name="next_activity" translatable="false">next_activity</string>
+</resources>
