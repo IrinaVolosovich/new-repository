@@ -14,6 +14,7 @@
         <!-- Customize your theme here. -->
 
         <item name="android:textViewStyle">@style/Theme.MyApplication2.TextView</item>
+        <item name="materialButtonStyle">@style/Theme.MyApplication2.Button</item>
 
     </style>
 
@@ -21,4 +22,11 @@
         <item name="android:textSize">22sp</item>
 
     </style>
-</resources>
+
+    <style name="Theme.MyApplication2.Button" parent="Widget.MaterialComponents.Button">
+        <item name="android:backgroundTint">#FD782415</item>
+
+    </style>
+
+
+    </resources>
