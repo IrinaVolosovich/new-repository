@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/fragment_1"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_looks_one_24"
+        android:title="@string/_1_fragment"/>
+    <item
+        android:id="@+id/fragment_2"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_looks_two_24"
+        android:title="@string/_2_fragment"/>
+
+</menu>
